@@ -1,3 +1,5 @@
+Insights from analysis:
+
 Found that gross/votes(index = 0.63) and gross/budget(index = 0.74) are positively correlated. 
 So we can roughly get three conclusions as below:
 
